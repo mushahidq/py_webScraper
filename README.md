@@ -10,4 +10,4 @@ googleImagesWithRequests.py : This webscraper for google images uses the request
 sampleGoogleImages.html : This is the page which is obtained when using the requests library.
 
 
-As it can be seen at times using the WebDriver more images can be obtained because t enables the use of Javascript
+As it can be seen that using the WebDriver more images can be obtained because it enables the use of Javascript while using the requests library we get pure HTML and CSS.
